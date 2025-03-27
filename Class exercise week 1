@@ -23,7 +23,7 @@ public with sharing class Welcome {
         Make one as a single line comment using the // notation.  Make the other one a multi line comment using the /* notation.
         When you're done, save this file so that it is compiled and stored in Salesforce.  */
  /* Declare a variable in this case a integer and assing a value in the next line in this case 2. 
-  Declare a variable and assign a value in the same line. In this case a string with the value of my string. /*
+  Declare a variable and assign a value in the same line. In this case a string with the value of my string. */
 		Integer i;
 
 		i = 2;
